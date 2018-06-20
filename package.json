@@ -1,0 +1,11 @@
+{
+  "name": "Base Bot",
+  "version": "1.0.0",
+  "description": "Base Bot",
+  "main": "bot.js",
+  "author": "Lucas Arusiewicz Lacerda",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
